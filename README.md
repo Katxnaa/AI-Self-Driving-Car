@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## AI Self Driving Car
 
-You can use the [editor on GitHub](https://github.com/Katxnaa/AI-Self-Driving-Car/edit/website/README.md) to maintain and preview the content for your website in Markdown files.
+This Prototype is a fully Autonomous robot model representation of a Self Driving Car with real-time obstacle evasion and human detection
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+Pre-Requisites:
+- Pre constructed Chassis
+- Motors Connected to L298 Motor Controller
+- Two PowerBanks QC3 capable
+- Everything about building and QC3 Trigger is explained in PDF ### Woking Manual
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+Step By Step Instructions are provided in ###SDC.pdf
+
+
 
 ```markdown
-Syntax highlighted code block
+This Project was Created as a college Project, google any errors and contact ayushshr52@gmail.com for queries.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Katxnaa/AI-Self-Driving-Car/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
